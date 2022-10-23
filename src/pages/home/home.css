@@ -37,8 +37,8 @@
 }
 
 .main__header-circle {
-    width: 25rem;
-    height: 25rem;
+    width: 35rem;
+    height: 35rem;
     background: linear-gradient(75deg, var(--color-secondary), transparent);
     border-radius: 50%;
     position: absolute;
@@ -48,6 +48,7 @@
 
 .main__header-image {
     position: relative;
+    width: 30rem;
 }
 
 /* ===================== PROGRAMS ===================== */
