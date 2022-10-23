@@ -77,14 +77,14 @@ export const values = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Value One",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Accountability",
+        desc: "We maintain and guarantee our commitment to teaching only the most up-to-date iterations of all our of language offerings. If it's out-of-date, it's a refund in your pocket."
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Value Two",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Inclusion",
+        desc: "We strive inclusion in not just our trainers, but also our customers, and our package offerings. If there is a frame-work or language you don't see offered here, contact us and we'll build one."
     },
     {
         id: 3,
