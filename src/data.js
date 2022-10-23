@@ -46,8 +46,8 @@ export const programs = [
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Program Two",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "BackEnd Bravery",
+        info: "---- Java/Ruby/SQL/Python ---- Beginner, Intermediate, and Mastery packages",
         path: "/programs/222"
     },
     {
