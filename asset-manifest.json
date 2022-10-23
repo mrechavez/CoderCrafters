@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CoderCrafters/static/css/main.073c9b0a.css",
+    "main.js": "/CoderCrafters/static/js/main.69ec3050.js",
+    "static/js/787.aea8f1af.chunk.js": "/CoderCrafters/static/js/787.aea8f1af.chunk.js",
+    "static/media/excursion.png": "/CoderCrafters/static/media/excursion.be11e1167a67693d62f2.png",
+    "static/media/logo.svg": "/CoderCrafters/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CoderCrafters/index.html",
+    "main.073c9b0a.css.map": "/CoderCrafters/static/css/main.073c9b0a.css.map",
+    "main.69ec3050.js.map": "/CoderCrafters/static/js/main.69ec3050.js.map",
+    "787.aea8f1af.chunk.js.map": "/CoderCrafters/static/js/787.aea8f1af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.69ec3050.js"
+  ]
+}
