@@ -7,10 +7,10 @@ const MainHeader = () => {
     <header className="main__header">
       <div className="container main__header-container">
         <div className="main__header-left">
-          <h4>#100DaysOfWorkOut</h4>
-          <h1>Join The Legends Of The Fitness World</h1>
+          <h4>#BareYourFAANGs</h4>
+          <h1>Become BigTech's next Leader</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam excepturi similique eius optio. Dolorum, quaerat.
+            It's a slamdunk decision. We provide comprehensive technical consultation and instruction that will lay the groundwork to fast track your entry into the field of Software Engineering.
           </p>
           <Link to="/plans" className='btn lg'>Get Started</Link>
         </div>
