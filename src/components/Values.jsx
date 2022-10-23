@@ -17,7 +17,7 @@ const Values = () => {
             <div className="values__right">
                 <SectionHead icon={<GiCutDiamond/>} title="Values"/>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis quidem aperiam sapiente?
+                    CoderCrafters prides itself on its ability to blend next-generation pegagodgy with industry-leading software practice. This cannot be done without careful consideration of our four pillars.
                 </p>
                 <div className="values__wrapper">
                     {
