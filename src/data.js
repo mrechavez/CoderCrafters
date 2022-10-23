@@ -53,15 +53,15 @@ export const programs = [
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Program Three",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Flamin' FullStack",
+        info: "Mark-up + Choices of JS/Python/C+",
         path: "/programs/333"
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Program Four",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "Dragon's Breath",
+        info: "A custom package designed for truly committed elites, we guarantee a job within 6 months of graduation with this program. ",
         path: "/programs/444"
     }
 ]
