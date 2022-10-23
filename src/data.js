@@ -39,8 +39,8 @@ export const programs = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Program One",
-        info: "This is the day that the lord has made. We will rejoice!",
+        title: "FrontEnd Freak",
+        info: "---- HTML/CSS/JavaScript ---- Beginner, Intermediate, and Mastery packages",
         path: "/programs/111"
     },
     {
