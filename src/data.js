@@ -179,9 +179,9 @@ export const testimonials = [
     },
     {
         id: 5,
-        name: "Nana Yaa Dankwa",
-        quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Pharmacist",
+        name: "Daisy Druckers",
+        quote: "Not only does CoderCrafters have awesome instructors, but they make some amazingly customized programs. I wasn't that interested in being a developer but I really wanted to go on a managers' track. CoderCrafters built me exactly that, and now I'm making north of 1,000,000 a year as a PM and I'm well on my way to VP. Can't recommend them enough.",
+        job: "Product Manager",
         avatar: require("./images/avatar7.jpg")
     }
 ]
