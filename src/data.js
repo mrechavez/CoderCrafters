@@ -126,8 +126,8 @@ export const faqs = [
     },
     {
         id: 4,
-        question: "Do I need to warm up before my workouts?",
-        answer: "Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate? Qui totam est omnis dolor nobis quisquam veritatis a!"
+        question: "What if I don't feel prepared after finishing the course?",
+        answer: "All of our classes are backed by our SimplySatisfied Guarantee. While Software Development is a field that requires immersive learning, we offer complementary tutoring packages for up to 12 months post-graduation for any concepts learned that you feel haven't been adequately understood."
     },
     {
         id: 5,
