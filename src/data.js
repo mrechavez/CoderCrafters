@@ -131,8 +131,8 @@ export const faqs = [
     },
     {
         id: 5,
-        question: "Should I do strength training, cardio or both?",
-        answer: "Maiores fuga, cum praesentium esse laudantium! Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui."
+        question: "Can I pick my instructor?",
+        answer: "We provide native reviewing software coupled with post-course evaluations on our website to ensure complete transparency for all incoming students. We are comitted to providing the best instructor to the best student, which is why we utilise a learning assessment questionnaire at orientation. Our patent-pending algorithm ensures 97% success!"
     },
     {
         id: 6,
