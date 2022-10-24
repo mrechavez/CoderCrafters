@@ -112,7 +112,7 @@ export const faqs = [
     {
         id: 1,
         question: "How long are your classes?",
-        answer: ""
+        answer: "The short answer is, it depends! We offer 4 week, 8 week, and 12 week accelerated courses alongside slower-paced 1, 2, and 4 year offerings for all of our content. We also pride ourselves on principals of learning that recognize every person is different - you tell us your learning style and speed, and we'll create a program that fits. "
     },
     {
         id: 2,
