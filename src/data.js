@@ -90,7 +90,7 @@ export const values = [
         id: 3,
         icon: <SiOpenaigym/>,
         title: "Responsiveness",
-        desc: "All of our programs are intricately designed and crafted to ensure that no matter what language you decide to learn, whether its front-end, back-end, or full-stack, it'll be taught with responsiveness and accessibility in mind, utilising the latest standards and practices published by W3C, WHATWG, and ECMA, among others."
+        desc: "All of our programs are intricately designed and crafted to ensure that no matter what languages you decide to learn, whether they are front-end, back-end, or full-stack, it'll be taught with responsiveness and accessibility in mind, utilising the latest standards and practices published by W3C, WHATWG, and ECMA, among others."
     },
     {
         id: 4,
@@ -122,7 +122,7 @@ export const faqs = [
     {
         id: 3,
         question: "I need extra time on tests and quizzes. Do you guys have those, and can I arrange for extra time?",
-        answer: "We use a variety of verification tools to ensure our students are ready for the field, tests and quizzes being one of them. We are comitted to providing a custom approach for all students, which includes providing extra time for students who need it."
+        answer: "We use a variety of verification tools to ensure our students are ready for the field, tests and quizzes being one of them. We are committed to providing a custom approach for all students, which includes providing extra time for students who need it."
     },
     {
         id: 4,
