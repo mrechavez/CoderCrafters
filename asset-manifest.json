@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/CoderCrafters/static/css/main.f3bbc72e.css",
-    "main.js": "/CoderCrafters/static/js/main.af4926da.js",
+    "main.css": "/CoderCrafters/static/css/main.da6258b6.css",
+    "main.js": "/CoderCrafters/static/js/main.e4ce17e7.js",
     "static/media/header_bg_3.jpg": "/CoderCrafters/static/media/header_bg_3.20aac8db63049715cbd1.jpg",
-    "static/media/main_header.png": "/CoderCrafters/static/media/main_header.cfdd71eb8ee4127d40dd.png",
     "static/media/header_bg_5.jpg": "/CoderCrafters/static/media/header_bg_5.1779114ab5e3f0403a12.jpg",
     "static/media/about2.jpg": "/CoderCrafters/static/media/about2.2c97a145dfdda53737eb.jpg",
     "static/media/gallery7.jpg": "/CoderCrafters/static/media/gallery7.1631333a1ec83df5f5a1.jpg",
@@ -34,12 +33,14 @@
     "static/media/trainer2.jpg": "/CoderCrafters/static/media/trainer2.50ed6b0e7304a28d987d.jpg",
     "static/media/trainer6.jpg": "/CoderCrafters/static/media/trainer6.d060ff98bdc67ac8ddf3.jpg",
     "static/media/avatar5.jpg": "/CoderCrafters/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
+    "static/media/logo2.jpg": "/CoderCrafters/static/media/logo2.9fb2def9eb0d7636b40f.jpg",
+    "static/media/logo4.jpg": "/CoderCrafters/static/media/logo4.14ab3f6a7c3348a739e1.jpg",
     "index.html": "/CoderCrafters/index.html",
-    "main.f3bbc72e.css.map": "/CoderCrafters/static/css/main.f3bbc72e.css.map",
-    "main.af4926da.js.map": "/CoderCrafters/static/js/main.af4926da.js.map"
+    "main.da6258b6.css.map": "/CoderCrafters/static/css/main.da6258b6.css.map",
+    "main.e4ce17e7.js.map": "/CoderCrafters/static/js/main.e4ce17e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3bbc72e.css",
-    "static/js/main.af4926da.js"
+    "static/css/main.da6258b6.css",
+    "static/js/main.e4ce17e7.js"
   ]
 }
