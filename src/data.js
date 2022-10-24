@@ -136,8 +136,8 @@ export const faqs = [
     },
     {
         id: 6,
-        question: "Should I lift weights for strength training?",
-        answer: "Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate."
+        question: "Are you hiring?",
+        answer: "Send us your resume and cover letter via our contact form and we will get back to you within 5-7 business days. No ghosting!"
     }
 ]
 
