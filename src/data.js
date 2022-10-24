@@ -151,8 +151,8 @@ export const faqs = [
 export const testimonials = [
     {
         id: 1,
-        name: "Diana Ayi",
-        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
+        name: "Patricia Piper",
+        quote: "James is one of the best instructors I've ever had, better than any I had at Harvard. CoderCrafters has provided me with the foundation to be incredibly successful - I'm a Senior Dev at Google now!",
         job: "Student",
         avatar: require("./images/avatar1.jpg")
     },
