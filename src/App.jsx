@@ -13,7 +13,7 @@ import Footer from './components/Footer'
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Navbar/>
       <Routes>
         <Route index element={<Home/>}/>
@@ -25,7 +25,7 @@ const App = () => {
         <Route path='*' element={<NotFound/>}/>
       </Routes>
       <Footer/>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
