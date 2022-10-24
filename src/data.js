@@ -165,16 +165,16 @@ export const testimonials = [
     },
     {
         id: 3,
-        name: "Robin Baskin",
+        name: "Astin Marvin",
         quote: "I've always wanted to be a teacher myself, and I've had a fascination with code for as long as I can remember. So becoming a software engineering professor was a dream of mine. CoderCrafters built me a program that set me up to do exactly that. With the help of my instructor, Sally, I'm now a tenured Associate Professor of Computer Science at Dartmouth.",
         job: "University Lecturer",
         avatar: require("./images/avatar3.jpg")
     },
     {
         id: 4,
-        name: "Grace Lavoe",
-        quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Talking Parrot",
+        name: "Robin Baskin",
+        quote: "Donna's lectures on Data and server-side queries are world-class. I now make six figures at a start-up in Cupertino because of CoderCrafters.",
+        job: "Back-End Developer",
         avatar: require("./images/avatar4.jpg")
     },
     {
@@ -182,7 +182,7 @@ export const testimonials = [
         name: "Nana Yaa Dankwa",
         quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
         job: "Pharmacist",
-        avatar: require("./images/avatar5.jpg")
+        avatar: require("./images/avatar7.jpg")
     }
 ]
 
