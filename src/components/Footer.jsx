@@ -1,9 +1,9 @@
 import {Link} from 'react-router-dom'
 import Logo from '../images/logo4.jpg'
 import { FaLinkedin } from 'react-icons/fa'
-import { FaFacebookF } from 'react-icons/fa'
+import { FaGithub } from 'react-icons/fa'
 import { AiOutlineTwitter } from 'react-icons/ai'
-import { AiFillInstagram } from 'react-icons/ai'
+import { FaHome } from 'react-icons/fa'
 
 
 
@@ -17,13 +17,13 @@ const Footer = () => {
                     <img src={Logo} alt="Footer Logo" />
                 </Link>
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui tenetur harum pariatur! Iusto animi cupiditate, provident dolore porro eum obcaecati.
+                    The TechStack SuperCenter. Developing tomorrow's websites, today.
                 </p>
                 <div className="footer__socials">
-                    <a href="https://linkedin.com/" target="_blank" rel='noreferrer noopener'><FaLinkedin/></a>
-                    <a href="https://facebook.com/" target="_blank" rel='noreferrer noopener'><FaFacebookF/></a>
-                    <a href="https://twitter.com/" target="_blank" rel='noreferrer noopener'><AiOutlineTwitter/></a>
-                    <a href="https://instagram.com/" target="_blank" rel='noreferrer noopener'><AiFillInstagram/></a>
+                    <a href="https://www.linkedin.com/in/peterchusid/" target="_blank" rel='noreferrer noopener'><FaLinkedin/></a>
+                    <a href="https://github.com/pwchusid" target="_blank" rel='noreferrer noopener'><FaGithub/></a>
+                    <a href="https://twitter.com/peterchusid" target="_blank" rel='noreferrer noopener'><AiOutlineTwitter/></a>
+                    <a href="https://peterchusid.com/" target="_blank" rel='noreferrer noopener'><FaHome/></a>
                 </div>
             </article>
             <article>
