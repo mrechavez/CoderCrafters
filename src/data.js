@@ -89,14 +89,14 @@ export const values = [
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Value Three",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Responsiveness",
+        desc: "All of our programs are intricately designed and crafted to ensure that no matter what language you decide to learn, whether its front-end, back-end, or full-stack, it'll be taught with responsiveness and accessibility in mind, utilising the latest standards and practices published by W3C, WHATWG, and ECMA, among others."
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Value Four",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Ownership",
+        desc: "We pride ourselves on the principal of creating great products users love and owning it. Whether its existing, proven software or code you've created from scratch, we teach all our students to utilize the best possible solution for any given project."
     }
 ]
 
@@ -111,8 +111,8 @@ export const values = [
 export const faqs = [
     {
         id: 1,
-        question: "How often should I exercise?",
-        answer: "Consectetur adipisicing elit. Non ipsa dolorem, rem consequatur eum omnis ex, fuga temporibus qui nesciunt odio aliquam commodi culpa inventore ut similique repellendus perferendis sint!"
+        question: "How long are your classes?",
+        answer: ""
     },
     {
         id: 2,
