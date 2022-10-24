@@ -122,7 +122,7 @@ export const faqs = [
     {
         id: 3,
         question: "I need extra time on tests and quizzes. Do you guys have those, and can I arrange for extra time?",
-        answer: ""
+        answer: "We use a variety of verification tools to ensure our students are ready for the field, tests and quizzes being one of them. We are comitted to providing a custom approach for all students, which includes providing extra time for students who need it."
     },
     {
         id: 4,
