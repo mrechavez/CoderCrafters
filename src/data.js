@@ -165,8 +165,8 @@ export const testimonials = [
     },
     {
         id: 3,
-        name: "Edem Quist",
-        quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
+        name: "Robin Baskin",
+        quote: "I've always wanted to be a teacher myself, and I've had a fascination with code for as long as I can remember. So becoming a software engineering professor was a dream of mine. CoderCrafters built me a program that set me up to do exactly that. With the help of my instructor, Sally, I'm now a tenured Associate Professor of Computer Science at Dartmouth.",
         job: "University Lecturer",
         avatar: require("./images/avatar3.jpg")
     },
