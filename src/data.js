@@ -153,14 +153,14 @@ export const testimonials = [
         id: 1,
         name: "Patricia Piper",
         quote: "James is one of the best instructors I've ever had, better than any I had at Harvard. CoderCrafters has provided me with the foundation to be incredibly successful - I'm a Senior Dev at Google now!",
-        job: "Student",
+        job: "Full-Stack Developer",
         avatar: require("./images/avatar1.jpg")
     },
     {
         id: 2,
-        name: "Daniel Vinyo",
-        quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Software Egineer",
+        name: "José Cuervo",
+        quote: "I don't think I could have ever made it this far without my Instructor, Harry. He's always providing real-world examples of concepts that everyone can understand. With his help, I'm now a Junior Frontend Engineer for AWS. ",
+        job: "Software Engineer",
         avatar: require("./images/avatar2.jpg")
     },
     {
