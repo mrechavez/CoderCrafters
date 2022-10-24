@@ -116,13 +116,13 @@ export const faqs = [
     },
     {
         id: 2,
-        question: "What time of day is best to work out?",
-        answer: "Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui. Eos, omnis beatae? Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit."
+        question: "Do I get a degree at the end?",
+        answer: "You can. We have a partnership through EvRy University for both Bachelors and Associates degrees in Computer Science and Software Engineering, respectively. Visit their website to apply and for further information on all their offerings. Alternatively, reserve classes through us here for non-degree options."
     },
     {
         id: 3,
-        question: "How long should my workouts be?",
-        answer: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+        question: "I need extra time on tests and quizzes. Do you guys have those, and can I arrange for extra time?",
+        answer: ""
     },
     {
         id: 4,
