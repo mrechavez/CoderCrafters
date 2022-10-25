@@ -17,7 +17,7 @@ const Footer = () => {
                     <img src={Logo} alt="Footer Logo" />
                 </Link>
                 <p>
-                    The TechStack SuperCenter. Developing tomorrow's websites, today.
+                    The TechStack SuperCenter - Developing tomorrow's websites, today.
                 </p>
                 <div className="footer__socials">
                     <a href="https://www.linkedin.com/in/peterchusid/" target="_blank" rel='noreferrer noopener'><FaLinkedin/></a>
