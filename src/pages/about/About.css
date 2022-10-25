@@ -1,5 +1,4 @@
 .about__section-image {
-    border-radius: 50%;
     overflow: hidden;
     transform: skew(15deg);
     transition: var(--transition);
