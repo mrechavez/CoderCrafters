@@ -14,7 +14,7 @@ const About = () => {
   return (
     <>
     <Header title="About Us" image={HeaderImage}>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Et maiores doloribus, eligendi incidunt modi rerum debitis consequatur molestias?
+    Lorm ipsum dolor sit amet consectetur adipisicing elit. Et maiores doloribus, eligendi incidunt modi rerum debitis consequatur molestias?
     </Header>
 
     <section className="about__story">
