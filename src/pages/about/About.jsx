@@ -39,10 +39,10 @@ const About = () => {
         <div className="about__section-content">
           <h1>Our Vision</h1>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores fugit ad neque quo, quas eius quam at sunt quod in atque nulla minus nam impedit tempore consectetur esse quibusdam voluptatum optio nemo! Aperiam veritatis delectus commodi. Minima tempora voluptates natus.
+          Our vision is to improve the industry of software development through teaching a new generation of developers.
           </p>
           <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam harum corrupti quas voluptate, perferendis consectetur veritatis veniam, ratione, distinctio iste dignissimos alias ipsum minima consequuntur?
+          We believe that in order to be have a truly successful company that makes truly successful products, all contributors to the product must maintain an appreciation for all parts of the development cycle, from front-end to back-end, from the art to the logic. Our vision fulfilled means all of our graduates create code in respect of and acknowledgement to all of the product.
           </p>
         </div>
         <div className="about__section-image">
