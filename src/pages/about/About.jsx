@@ -42,7 +42,11 @@ const About = () => {
           Our vision is to improve the industry of software development through teaching a new generation of developers.
           </p>
           <p>
-          We believe that in order to be have a truly successful company that makes truly successful products, all contributors to the product must maintain an appreciation for all parts of the development cycle, from front-end to back-end, from the art to the logic. Our vision fulfilled means all of our graduates create code in respect of and acknowledgement to all of the product.
+          We believe that in order to be have a truly successful company that makes truly successful products, all contributors to the product must maintain an appreciation for all parts of the development cycle, from front-end to back-end, from the art to the logic. 
+          </p>
+          Our vision fulfilled means all of our graduates create code in respect of and acknowledgement to all of the product.
+          <p>
+
           </p>
         </div>
         <div className="about__section-image">
@@ -60,13 +64,13 @@ const About = () => {
         <div className="about__section-content">
           <h1>Our Mission</h1>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores fugit ad neque quo, quas eius quam at sunt quod in atque nulla minus nam impedit tempore consectetur esse quibusdam voluptatum optio nemo! Aperiam veritatis delectus commodi. Minima tempora voluptates natus.
+          Our mission is to provide high quality evidence-based education thats sets the standard for entire careers.
           </p>
           <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam harum corrupti quas voluptate, perferendis consectetur veritatis veniam, ratione, distinctio iste dignissimos alias ipsum minima consequuntur?
+          This includes providing exceptional and customized approaches based on leading pedagogy that will stimulate intellectual, social, moral, and economical development.
           </p>
           <p>
-          Perferendis consectetur veritatis veniam, ratione, distinctio iste dignissimos alias ipsum minima consequuntur?
+          Upon all programs in all lesson plans, we commit ourselves to our three tenets that all students strive for in their software: Power, Beauty, and Speed.
           </p>
         </div>
       </div>
