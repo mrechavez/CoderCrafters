@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CoderCrafters/static/css/main.addefbde.css",
-    "main.js": "/CoderCrafters/static/js/main.97359fd0.js",
+    "main.js": "/CoderCrafters/static/js/main.20a59403.js",
     "static/media/values.jpg": "/CoderCrafters/static/media/values.8c93d0159b495abf966e.jpg",
     "static/media/about3.jpg": "/CoderCrafters/static/media/about3.d76c4f0366ca47963f7d.jpg",
     "static/media/gallery6.jpg": "/CoderCrafters/static/media/gallery6.e494812b7b7a9eda7af1.jpg",
@@ -37,10 +37,10 @@
     "static/media/logo4.jpg": "/CoderCrafters/static/media/logo4.14ab3f6a7c3348a739e1.jpg",
     "index.html": "/CoderCrafters/index.html",
     "main.addefbde.css.map": "/CoderCrafters/static/css/main.addefbde.css.map",
-    "main.97359fd0.js.map": "/CoderCrafters/static/js/main.97359fd0.js.map"
+    "main.20a59403.js.map": "/CoderCrafters/static/js/main.20a59403.js.map"
   },
   "entrypoints": [
     "static/css/main.addefbde.css",
-    "static/js/main.97359fd0.js"
+    "static/js/main.20a59403.js"
   ]
 }
