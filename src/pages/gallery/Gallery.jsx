@@ -15,7 +15,7 @@ const Gallery = () => {
   return (
     <>
       <Header title="Our Gallery" image={HeaderImage}>
-      Quisquam id tenetur adipisci nesciunt ipsum amet in quibusdam, architecto nostrum nobis, est, deserunt odio illum perspiciatis.
+      Whether its in the classroom or on our team-building excursions, you can bet that all of our students and instructors will be a coding force to be reckoned with by the time they graduate.
       </Header>
       <section className="gallery">
         <div className="container gallery__container">

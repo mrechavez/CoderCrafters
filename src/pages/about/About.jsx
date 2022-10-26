@@ -25,10 +25,10 @@ const About = () => {
           CoderCrafters is the brainchild of Peter Chusid and Miles Echavez. We were started in New England, USA, 2022. The idea came about after our own endeavor to become Software Engineers and in recognition of the difficulty in doing so.
           </p>
           <p>
-          After years of classes and reading and consulting with, stack overflow, we realized that many, even those who've established themselves with jobs in the field, never quite feel a mastery of their skill.
+          After years of classes, reading, and consulting with StackOverflow, we realized that many, even those who've established themselves with jobs in the field, never quite feel a mastery of their skill.
           </p>
           <p>
-          While Software development is a field of collaboration, and the best code should always be used for any given task, even if that involves integrating code you've found instead of made, a strong foundation is important. We got to work making programs that will give you just that.
+          While Software development is a field of collaboration and the best code should always be used for any given task, even if that involves integrating code you've found instead of made, a strong foundation is important. We went to work making programs that will give you just that.
           </p>
         </div>
       </div>
