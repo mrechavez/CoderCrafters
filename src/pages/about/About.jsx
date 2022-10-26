@@ -11,7 +11,7 @@ const About = () => {
   return (
     <>
     <Header title="About Us" image={HeaderImage2}>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Et maiores doloribus, eligendi incidunt modi rerum debitis consequatur molestias?
+    Read below to learn about our Story, our Vision, and our mission to turn you into a competent, workforce ready engineer.
     </Header>
 
     <section className="about__story">
@@ -22,13 +22,13 @@ const About = () => {
         <div className="about__section-content">
           <h1>Our Story</h1>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores fugit ad neque quo, quas eius quam at sunt quod in atque nulla minus nam impedit tempore consectetur esse quibusdam voluptatum optio nemo! Aperiam veritatis delectus commodi. Minima tempora voluptates natus.
+          CoderCrafters is the brainchild of Peter Chusid and Miles Echavez. We were started in New England, USA, 2022. The idea came about after our own endeavor to become Software Engineers and in recognition of the difficulty in doing so.
           </p>
           <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam harum corrupti quas voluptate, perferendis consectetur veritatis veniam, ratione, distinctio iste dignissimos alias ipsum minima consequuntur?
+          After years of classes and reading and consulting with, stack overflow, we realized that many, even those who've established themselves with jobs in the field, never quite feel a mastery of their skill.
           </p>
           <p>
-          Perferendis consectetur veritatis veniam, ratione, distinctio iste dignissimos alias ipsum minima consequuntur?
+          While Software development is a field of collaboration, and the best code should always be used for any given task, even if that involves integrating code you've found instead of made, a strong foundation is important. We got to work making programs that will give you just that.
           </p>
         </div>
       </div>
@@ -39,10 +39,14 @@ const About = () => {
         <div className="about__section-content">
           <h1>Our Vision</h1>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores fugit ad neque quo, quas eius quam at sunt quod in atque nulla minus nam impedit tempore consectetur esse quibusdam voluptatum optio nemo! Aperiam veritatis delectus commodi. Minima tempora voluptates natus.
+          Our vision is to improve the industry of software development through teaching a new generation of developers.
           </p>
           <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam harum corrupti quas voluptate, perferendis consectetur veritatis veniam, ratione, distinctio iste dignissimos alias ipsum minima consequuntur?
+          We believe that in order to be have a truly successful company that makes truly successful products, all contributors to the product must maintain an appreciation for all parts of the development cycle, from front-end to back-end, from the art to the logic. 
+          </p>
+          Our vision fulfilled means all of our graduates create code in respect of and acknowledgement to all of the product.
+          <p>
+
           </p>
         </div>
         <div className="about__section-image">
@@ -60,13 +64,13 @@ const About = () => {
         <div className="about__section-content">
           <h1>Our Mission</h1>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores fugit ad neque quo, quas eius quam at sunt quod in atque nulla minus nam impedit tempore consectetur esse quibusdam voluptatum optio nemo! Aperiam veritatis delectus commodi. Minima tempora voluptates natus.
+          Our mission is to provide high quality evidence-based education thats sets the standard for entire careers.
           </p>
           <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam harum corrupti quas voluptate, perferendis consectetur veritatis veniam, ratione, distinctio iste dignissimos alias ipsum minima consequuntur?
+          This includes providing exceptional and customized approaches based on leading pedagogy that will stimulate intellectual, social, moral, and economical development.
           </p>
           <p>
-          Perferendis consectetur veritatis veniam, ratione, distinctio iste dignissimos alias ipsum minima consequuntur?
+          Upon all programs in all lesson plans, we commit ourselves to our three tenets that all students strive for in their software: Power, Beauty, and Speed.
           </p>
         </div>
       </div>
