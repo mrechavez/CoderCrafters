@@ -12,7 +12,7 @@ const Trainers = () => {
   return (
     <>
     <Header title="Our Trainers" image={HeaderImage}>
-    Facilis, iusto numquam unde laboriosam expedita qui exercitationem? Dicta vero accusantium est aut molestiae fugit doloremque suscipit quod.
+    All of our trainers are thoroughly vetted leaders in their respective fields.
     </Header>
     <section className="trainers">
       <div className="container trainers__container">

@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <>
     <Header title="Get In Touch" image={HeaderImage}>
-    Fruga itaque ducimus, ad amet praesentium suscipit sit, assumenda nihil officia totam, animi culpa nobis nemo natus doloremque?
+    Questions about our programs? Seeking work as one of our many fantastic instructors? Send us a form below or via the contact methods provided.
     </Header>
     <section className="contact">
       <div className="container contact__container">
