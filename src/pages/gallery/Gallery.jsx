@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/header_bg_3.jpg'
+import HeaderImage from '../../images2/header_bg_3.jpg'
 import './gallery.css'
 
 
@@ -8,7 +8,7 @@ const Gallery = () => {
   const images = []
 
   for(let i = 1; i <= galleryLength; i++) {
-    images.push(require(`../../images/gallery${i}.jpg`))
+    images.push(require(`../../images2/gallery${i}.jpg`))
   }
 
 
