@@ -8,7 +8,7 @@ const Plans = () => {
   return (
     <>
     <Header title="Membership Plans" image={HeaderImage}>
-    Assumenda perspiciatis asperiores deserunt quisquam, sit iusto consectetur vero similique aliquam.
+    Pair any of our programs with a membership plan to receive these exclusive features.
     </Header>
     <section className="plans">
       <div className="container plans__container">
