@@ -1,8 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/header_bg_1.jpg'
-import StoryImage from '../../images/about1.jpg'
-import VisionImage from '../../images/about2.jpg'
-import MissionImage from '../../images/about3.jpg'
+import HeaderImage2 from '../../images2/header_bg_1.jpg'
 import StoryImage2 from '../../images2/about1.jpg'
 import VisionImage2 from '../../images2/about2.jpg'
 import MissionImage2 from '../../images2/about3.jpg'
@@ -13,7 +10,7 @@ import './about.css'
 const About = () => {
   return (
     <>
-    <Header title="About Us" image={HeaderImage}>
+    <Header title="About Us" image={HeaderImage2}>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Et maiores doloribus, eligendi incidunt modi rerum debitis consequatur molestias?
     </Header>
 
