@@ -278,43 +278,43 @@ export const trainers = [
     {
         id: 1,
         image: Trainer1,
-        name: 'John Doe',
-        job: 'Aerobic Trainer',
+        name: 'James Stratton',
+        job: 'Frontend Expert',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 2,
         image: Trainer2,
-        name: 'Daniel vinyo',
-        job: 'Speed Trainer',
+        name: 'Sally Shores',
+        job: 'Backend Expert',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 3,
         image: Trainer3,
-        name: 'Edem Quist',
-        job: 'Flexibility Trainer',
+        name: 'Keisha Teacle',
+        job: 'Full-stack Expert',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 4,
         image: Trainer4,
-        name: 'Shatta Wale',
-        job: 'Body Composition Trainer',
+        name: 'Harry Crepe',
+        job: 'Full-stack Expert',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 5,
         image: Trainer5,
-        name: 'Diana Ayi',
-        job: 'Circuit Trainer',
+        name: 'Donna Druthers',
+        job: 'Associate Director/Full-stack Expert',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
     {
         id: 6,
         image: Trainer6,
-        name: 'Wayne Carter',
-        job: 'Physical Intelligence Trainer',
+        name: 'Asmondeus Potter',
+        job: 'Assistant Director/Senior Expert',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
 ]
