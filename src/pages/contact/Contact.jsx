@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/header_bg_2.jpg'
+import HeaderImage from '../../images2/header_bg_2.jpg'
 import {MdEmail} from 'react-icons/md'
 import {BsMessenger} from 'react-icons/bs'
 import {IoLogoWhatsapp} from 'react-icons/io'
