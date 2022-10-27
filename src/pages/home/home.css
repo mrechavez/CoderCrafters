@@ -38,11 +38,10 @@
 
 .main__header-circle {
     width: 35rem;
-    height: 35rem;
-    background: linear-gradient(75deg, var(--color-secondary), transparent);
+    height: 5rem;
+    background: linear-gradient(75deg, var(--color-primary), transparent);
     border-radius: 50%;
     position: absolute;
-    filter: blur(15px);
     transition: var(--transition);
 }
 
