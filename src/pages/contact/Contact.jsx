@@ -1,8 +1,9 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images/header_bg_2.jpg'
+import HeaderImage from '../../images2/header_bg_2.jpg'
 import {MdEmail} from 'react-icons/md'
 import {BsMessenger} from 'react-icons/bs'
 import {IoLogoWhatsapp} from 'react-icons/io'
+import Form from '../../components/ContactForm'
 import './contact.css'
 
 const Contact = () => {
@@ -11,6 +12,7 @@ const Contact = () => {
     <Header title="Get In Touch" image={HeaderImage}>
     Questions about our programs? Seeking work as one of our many fantastic instructors? Send us a form below or via the contact methods provided.
     </Header>
+    <Form/>
     <section className="contact">
       <div className="container contact__container">
         <div className="contact__wrapper">
