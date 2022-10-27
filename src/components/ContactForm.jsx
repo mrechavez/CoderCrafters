@@ -1,7 +1,6 @@
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
-
-// npm i @emailjs/browser
+import './contactform.css'
 
 export const ContactUs = () => {
     const form = useRef();
@@ -9,9 +8,11 @@ export const ContactUs = () => {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_kmbpwcx', 'template_6y298kr', form.current, '1Ool0ue59E3Vaurp6')
+        emailjs.sendForm('service_c9yl05b', 'template_t32wud8', form.current, 'YsY3sEEjKOFY8LyPl')
             .then((result) => {
                 console.log(result.text);
+                console.log("message sent");
+                e.target.reset();
             }, (error) => {
                 console.log(error.text);
             });
