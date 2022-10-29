@@ -7,7 +7,7 @@ form {
 }
 
 input {
-    width: 40%;
+    width: 20%;
     height: 35px;
     padding: 7px;
     outline: none;
@@ -41,8 +41,26 @@ label {
 
 input[type="submit"] {
     margin-top: 2rem;
-    cursor: pointer;
-    background: rgb(249, 105, 14);
-    color: white;
     border: none;
+    height: 50px;
+    width: 175px;
+    transition: all;
+    transition-duration: 250ms;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: rgb(249, 105, 14);
+    color: white;
+    border-radius: 9999px;
+    box-shadow: -5px -5px 10px rgb(137, 63, 114), 5px 5px 10px rgb(173, 21, 203);
+    transition: east-out 0.3s;
+    outline: none;
+}
+
+.neu-btn:hover {
+    box-shadow: inset 175px 0 0 0 #4ce241;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
 }
