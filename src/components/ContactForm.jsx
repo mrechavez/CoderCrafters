@@ -12,6 +12,7 @@ export const ContactUs = () => {
             .then((result) => {
                 console.log(result.text);
                 console.log("message sent");
+                window.alert("Message Sent!")
                 e.target.reset();
             }, (error) => {
                 console.log(error.text);
@@ -26,7 +27,7 @@ export const ContactUs = () => {
             <input type="email" name="user_email" />
             <label>Message</label>
             <textarea name="message" />
-            <input type="submit" value="Send" />
+            <input type="submit" value="Send" className="neu-btn"/>
         </form>
     );
 };
