@@ -6,7 +6,7 @@ const LearnMore = () => {
   return (
     <>
     <Header title="Programs" image={HeaderImage}>
-    Learn More about our programs below.
+    Learn more about our programs below.
     </Header>
     <section className="programs__page">
         <div className='container programs__page-container'>
