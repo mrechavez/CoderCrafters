@@ -19,7 +19,7 @@ const Programs = () => {
                             <span>{icon}</span>
                             <h4>{title}</h4>
                             <small>{info}</small>
-                            <Link to={path} className="btn sm">Learn More <AiFillCaretRight/></Link>
+                            <Link to='/learnMore' className="btn sm">Learn More <AiFillCaretRight/></Link>
                         </Card>
                     )
                 })
