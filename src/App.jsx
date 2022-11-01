@@ -1,7 +1,6 @@
 import {HashRouter, Routes, Route} from 'react-router-dom'
 
 import Home from './pages/home/Home'
-import LearnMore from './pages/learnMore/LearnMore'
 import About from './pages/about/About'
 import Contact from './pages/contact/Contact'
 import Gallery from './pages/gallery/Gallery'
@@ -25,7 +24,6 @@ const App = () => {
         <Route path='gallery' element={<Gallery/>}/>
         <Route path='plans' element={<Plans/>}/>
         <Route path='trainers' element={<Trainers/>}/>
-        <Route path='learnmore' element={<LearnMore/>}/>
         <Route path='services' element={<Services/>}/>
         <Route path='faqs' element={<FAQ/>}/>
         <Route path='*' element={<NotFound/>}/>
