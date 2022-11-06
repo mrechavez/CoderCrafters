@@ -1,5 +1,5 @@
 import Header from '../../components/Header'
-import HeaderImage from '../../images2/header_bg_2.jpg'
+import HeaderImage from '../../images2/header_bg_6.jpg'
 import './services.css'
 import EventsImage2 from '../../images2/EventsImage2.jpeg'
 import CommunitiesImage1 from '../../images2/CommunitiesImage1.jpg'
