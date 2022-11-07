@@ -11,11 +11,14 @@ import FAQ from './components/FAQs'
 import NotFound from './pages/notFound/NotFound'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
+import ScrollToTop from './components/ScrollToTop'
+
 
 
 const App = () => {
   return (
     <HashRouter>
+      <ScrollToTop />
       <Navbar/>
       <Routes>
         <Route index element={<Home/>}/>
