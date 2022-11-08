@@ -88,7 +88,7 @@ export const values = [
         id: 2,
         icon: <SiOpenaigym/>,
         title: "Inclusion",
-        desc: "We strive inclusion in not just our trainers, but also our customers, and our package offerings. If there is a frame-work or language you don't see offered here, contact us and we'll build one."
+        desc: "We strive inclusion in not just our trainers, but also our customers, and our package offerings. If there is a frame-work or language you don't see offered here, contact us and we'll build a package for it."
     },
     {
         id: 3,
@@ -100,7 +100,7 @@ export const values = [
         id: 4,
         icon: <SiOpenaigym/>,
         title: "Ownership",
-        desc: "We pride ourselves on the principal of creating great products users love and owning it. Whether its existing, proven software or code you've created from scratch, we teach all our students to utilize the best possible solution for any given project."
+        desc: "We pride ourselves on the principal of creating great products users love and owning it. Whether it's existing, proven software or code you've created from scratch, we teach all our students to utilize the best possible solution for any given project."
     }
 ]
 
@@ -136,7 +136,7 @@ export const faqs = [
     {
         id: 5,
         question: "Can I pick my instructor?",
-        answer: "We provide native reviewing software coupled with post-course evaluations on our website to ensure complete transparency for all incoming students. We are comitted to providing the best instructor to the best student, which is why we utilise a learning assessment questionnaire at orientation. Our patent-pending algorithm ensures 97% success!"
+        answer: "We provide native reviewing software coupled with post-course evaluations on our website to ensure complete transparency for all incoming students. We are committed to providing the best instructor to the best student, which is why we utilise a learning assessment questionnaire at orientation. Our patent-pending algorithm ensures 97% success!"
     },
     {
         id: 6,
@@ -184,7 +184,7 @@ export const testimonials = [
     {
         id: 5,
         name: "Daisy Druckers",
-        quote: "Not only does CoderCrafters have awesome instructors, but they make some amazingly customized programs. I wasn't that interested in being a developer but I really wanted to go on a managers' track. CoderCrafters built me exactly that, and now I'm making north of 1,000,000 a year as a PM and I'm well on my way to VP. Can't recommend them enough.",
+        quote: "Not only does CoderCrafters have awesome instructors, but they make some amazingly customized programs. I wasn't that interested in being a developer but I really wanted to go on a managers' track. CoderCrafters built me exactly that, and now I'm making north of $250,000 a year as a PM and I'm well on my way to VP. Can't recommend them enough.",
         job: "Product Manager",
         avatar: require("./images/avatar7.jpg")
     }
