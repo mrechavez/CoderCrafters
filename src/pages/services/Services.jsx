@@ -40,12 +40,12 @@ const Services = () => {
         <div className="services__section-content">
           <h1>Communities</h1>
           <p>
-          CoderCrafters prides itself not just on its excellent, world-class instruction, but also its substantial investment in Engineering development.
+          CoderCrafters prides itself not just on its excellent, world-class instruction, but also its substantial investment in engineering development.
           </p>
           <p>
-          As of 09/2022, CoderCrafters has invested $13 million dollars into the development of Engineering programs in at-risk and third-world countries.
+          As of 09/2022, CoderCrafters has invested $13 million dollars into the development of engineering programs in at-risk and third-world countries.
           </p>
-          All of our investments and partnerships across the world have one goal in mind - increasing culture competence of the Tech industry and teaching the basics of coding to help natives solve issues they're passionate about and connect them with the rest of the world. 
+          All of our investments and partnerships across the world have one goal in mind - increasing culture competence of the tech industry and teaching the basics of coding to help natives solve issues they're passionate about and connect them with the rest of the world. 
           <p>
 
           </p>

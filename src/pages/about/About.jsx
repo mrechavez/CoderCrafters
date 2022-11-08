@@ -22,7 +22,7 @@ const About = () => {
         <div className="about__section-content">
           <h1>Our Story</h1>
           <p>
-          CoderCrafters is the brainchild of Peter Chusid and Miles Echavez. We were started in New England, USA, 2022. The idea came about after our own endeavor to become Software Engineers and in recognition of the difficulty in doing so.
+          CoderCrafters is the brainchild of Peter Chusid and Miles Echavez. Our journey began in New England, USA, 2022. The idea came about after our own endeavor to become Software Engineers and in recognition of the difficulty in doing so.
           </p>
           <p>
           After years of classes, reading, and consulting with StackOverflow, we realized that many, even those who've established themselves with jobs in the field, never quite feel a mastery of their skill.
