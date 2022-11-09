@@ -20,10 +20,18 @@ const Footer = () => {
                     The TechStack SuperCenter. Developing tomorrow's websites, today.
                 </p>
                 <div className="footer__socials">
+                    <p>Peter</p>
                     <a href="https://www.linkedin.com/in/peterchusid/" target="_blank" rel='noreferrer noopener'><FaLinkedin/></a>
                     <a href="https://github.com/pwchusid" target="_blank" rel='noreferrer noopener'><FaGithub/></a>
                     <a href="https://twitter.com/peterchusid" target="_blank" rel='noreferrer noopener'><AiOutlineTwitter/></a>
                     <a href="https://peterchusid.com/" target="_blank" rel='noreferrer noopener'><FaHome/></a>
+                </div>
+                <div className="footer__socials">
+                <p>Miles</p>
+                    <a href="https://www.linkedin.com/in/mrechavez" target="_blank" rel='noreferrer noopener'><FaLinkedin/></a>
+                    <a href="https://github.com/mrechavez" target="_blank" rel='noreferrer noopener'><FaGithub/></a>
+                    <a href="https://twitter.com/MilesEchavez" target="_blank" rel='noreferrer noopener'><AiOutlineTwitter/></a>
+                    <a href="https://milesechavez.com/" target="_blank" rel='noreferrer noopener'><FaHome/></a>
                 </div>
             </article>
             <article>
