@@ -58,7 +58,7 @@ export const programs = [
         id: 3,
         icon: <SiOpenaigym/>,
         title: "Flamin' FullStack",
-        info: "Mark-up + Choices of JS/Python/C+",
+        info: "--- HTML/CSS/JS/REST/gRPC --- Beginner, Intermediate, and Mastery packages",
         path: "/programs/333"
     },
     {
